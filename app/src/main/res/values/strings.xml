@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Opitas</string>
+
+    <string name="error_message_timeout">It was not possible to connect</string>
+    <string name="error_message">Connection failed</string>
+
+    <string name="key">e1da2798-9ed0-4d34-a4ee-01cbafd1ec5a</string>
+</resources>
